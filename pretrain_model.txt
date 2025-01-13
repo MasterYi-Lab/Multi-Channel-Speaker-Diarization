@@ -1,0 +1,6 @@
+# Speaker Embedding Model
+1. ECAPA-TDNN:
+   link: https://pan.baidu.com/s/1L9XaM-IbRNttfSmyhm6SJw?pwd=8651 PWD: 8651
+
+1. multi-channel TS-VAD baseline: 
+   link: https://pan.baidu.com/s/1g2xGDa2NZlJZEHKEmjK5tQ?pwd=8651 PWD: 8651
