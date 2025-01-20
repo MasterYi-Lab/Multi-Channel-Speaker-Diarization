@@ -147,5 +147,3 @@ This repository presents results from various models used for the Multi-Channel 
 | **#1** | Single-Channel TS-VAD | Alimeeting | 4.58% | 42% |
 | **#2** | Multi-Channel TS-VAD (Speech Encoder: Ecapa TDNN) | Alimeeting | 3.86% | 52.35% |
 | **#3** | Multi-Channel TS-VAD (Speech Encoder: Ecapa TDNN) | Alimeeting + AMI | 4.53% | 41.51% |
-| **#4** | Multi-Channel TS-VAD (Speech Encoder: WavLM) | Alimeeting | 3.19% | - |
-| **#5** | Multi-Channel TS-VAD (Speech Encoder: WavLM) | Alimeeting + AMI | 4.25% | 36.59% |
