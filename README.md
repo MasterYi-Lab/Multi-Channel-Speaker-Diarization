@@ -111,7 +111,7 @@ data/
 ```
 
 ### 4.Ali_ami dataset
-copy AMI dataset to Alimeeting dataset for target_audio ， SpeakerEmbedding and json file
+copy AMI dataset to Alimeeting dataset for target_audio, SpeakerEmbedding and json file
 
 ## Train
 for train, you need to change the content of scripts/run.sh
