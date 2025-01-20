@@ -125,7 +125,7 @@ bash scripts/eval_ali.sh
 ```
 for eval NTU dataset, you need to change the content of scripts/eval_ntu.sh
 ```
-bash scripts/eval_ali.sh
+bash scripts/eval_ntu.sh
 ```
 
 
