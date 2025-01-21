@@ -9,7 +9,7 @@ wget https://speech-lab-share-data.oss-cn-shanghai.aliyuncs.com/AliMeeting/openl
 tar -xzvf Train_Ali_far.tar.gz
 tar -xzvf Eval_Ali.tar.gz
 ```
-- Download SpeakerEmbedding.zip from https://drive.google.com/file/d/1tNRnF9ouPbPX9jxAh1HkuNBOY9Yx6Pj9/view?usp=sharing and put it in root folder
+- Download speaker embedding from https://drive.google.com/file/d/1tNRnF9ouPbPX9jxAh1HkuNBOY9Yx6Pj9/view?usp=sharing
 - Then make the dataset look like this:
  ```
 alimeeting
