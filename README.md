@@ -6,13 +6,11 @@ mkdir Alimeeting
 cd Alimeeting
 wget https://speech-lab-share-data.oss-cn-shanghai.aliyuncs.com/AliMeeting/openlr/Train_Ali_far.tar.gz
 wget https://speech-lab-share-data.oss-cn-shanghai.aliyuncs.com/AliMeeting/openlr/Eval_Ali.tar.gz
-wget https://speech-lab-share-data.oss-cn-shanghai.aliyuncs.com/AliMeeting/openlr/Test_Ali.tar.gz
 tar -xzvf Train_Ali_far.tar.gz
 tar -xzvf Eval_Ali.tar.gz
-tar -xzvf Test_Ali.tar.gz
 ```
 - Download SpeakerEmbedding.zip from https://drive.google.com/file/d/1tNRnF9ouPbPX9jxAh1HkuNBOY9Yx6Pj9/view?usp=sharing and put it in root folder
-- Then make the dataset looks like 
+- Then make the dataset look like 
  ```
 alimeeting
 ├── Train_Ali
