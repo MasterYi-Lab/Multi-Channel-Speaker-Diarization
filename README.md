@@ -1,5 +1,6 @@
+# Multi-Channel TS-VAD
 This repository provides the training and testing procedures for our algorithm. For training, you can use the Alimeeting dataset alone or a combination of the Alimeeting and AMI datasets. The testing is then conducted on the NTU dataset. If you only wish to test on the NTU dataset, you can directly use our pre-trained model. Please note that you can place the dataset in any location of your choice; simply modify the corresponding path in the shell script as needed. For the locations that require modifications, I have already added annotations.
-# Dataset
+
 ### 1.  Download Alimeeting dataset(https://openslr.org/119/)
 ```
 mkdir alimeeting
