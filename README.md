@@ -111,7 +111,7 @@ data/
 ```
 
 ### 4.Ali_ami dataset
-copy AMI dataset to Alimeeting dataset for target_audio ， SpeakerEmbedding and json file
+copy AMI dataset to Alimeeting dataset for target_audio, SpeakerEmbedding and JSON file
 
 ## Train
 for train, you need to change the content of scripts/run.sh
@@ -138,12 +138,11 @@ The weight files obtained from training using  Alimeeting and AMI are https://dr
 
 # Multi-Channel TS-VAD Results
 
-This repository presents results from various models used for the Multi-Channel Time-Series Voice Activity Detection (TS-VAD). The following table provides a comparison of models with different training data and speech encoders, showing their performance on the Alimeeting and NTU test sets.
+This repository presents results from various models used for the Multi-Channel Target-Speaker Voice Activity Detection (TS-VAD). The following table provides a comparison of models with different training data and speech encoders, showing their performance on the Alimeeting and NTU test sets.
 
 ## Model Performance Overview
 
 | Model | Method | Training Data | Alimeeting Test | NTU Test |
 |-------|--------|---------------|-----------------|----------|
-| **#1** | Single-Channel TS-VAD | Alimeeting | 4.58% | 42% |
-| **#2** | Multi-Channel TS-VAD (Speech Encoder: Ecapa TDNN) | Alimeeting | 3.86% |  |
-| **#3** | Multi-Channel TS-VAD (Speech Encoder: Ecapa TDNN) | Alimeeting + AMI | 4.53% | 41.51% |
+| **#1** | Multi-Channel TS-VAD (Speech Encoder: Ecapa TDNN) | Alimeeting | 3.86% |  |
+| **#2** | Multi-Channel TS-VAD (Speech Encoder: Ecapa TDNN) | Alimeeting + AMI | 4.53% | 41.51% |
