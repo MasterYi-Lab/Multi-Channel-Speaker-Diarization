@@ -25,19 +25,19 @@ alimeeting
 │     ├── ...
 ```
 
-- run scripts/preprocess_ali.sh in scripts directory and then the dataset looks like
+- run scripts/preprocess_ali.sh in scripts directory and then the dataset looks like:
 ```
 alimeeting 
 ├── Train_Ali
 │   ├── Train_Ali_far 
 │     ├── audio_dir
-│     ├── target_audio
+│     ├── target_audio_mc
 │     ├── textgrid_dir
 │     ├── Train.json
 ├── Eval_Ali
 │   ├── Eval_Ali_far 
 │     ├── audio_dir
-│     ├── target_audio
+│     ├── target_audio_mc
 │     ├── textgrid_dir
 │     ├── Eval.json
 ├── spk_embed
